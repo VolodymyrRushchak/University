@@ -1,4 +1,4 @@
-import algorithms.avltree as avl
+import algorithms.lab1.avltree as avl
 
 tree = avl.AVLTreeNode(10)
 avl.insert(tree, 15)
